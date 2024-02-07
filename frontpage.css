@@ -1,0 +1,63 @@
+
+body {
+    background-image: url('https://i.ibb.co/wNbBKgW/pexels-ella-olsson-1640774.jpg');
+    background-attachment: fixed;
+}
+img {
+    background-color: rgba(74, 56, 110, .3);
+    border-radius: 10px;
+    padding 5px;
+    margin: 0px 30px 0px 0px;
+    width: 150px;
+    height: 150px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(205, 230, 107, 0.69);
+    /* border: 2px solid black; */
+}
+.btn-primary {
+    display: flex;
+    justify-self: last baseline;
+    align-self: flex-end;
+    background-color: rgb(74, 56, 110) !important;
+    margin: 0 0 0 50px;
+}
+.btn-primary:hover {
+    background-color: rgb(196, 201, 129) !important;
+}
+.container2 {
+    border: 1px solid black;
+    padding: 20% 0% 20% 5%;
+    
+}
+h1 {
+    margin: 0 600px 0 0;
+}
+input {
+    border-radius: 10px;
+    padding: 10px;
+}
+.btn-primary-lg {
+    background-color: rgb(74, 56, 110) !important;
+    color: white !important;
+    border: 2px solid black !important; 
+    margin: 10px;
+    padding: 20px !important;
+}
+.btn-primary-lg:hover {
+    background-color: rgb(74, 56, 110);
+}
+.container3 {
+    background-color: rgba(187, 171, 150, .9);
+    display: flex;
+}
+#kitchen {
+    width: 50%;
+    height: 40%;
+}
+h2 {
+    display: flex;
+    align-items:center;
+}
